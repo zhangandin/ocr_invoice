@@ -1,0 +1,4 @@
+IMG_20190107_103022_6, 3, invoice_date, 6
+IMG_20190107_103022_1, 1, invoice_number, 1
+IMG_20190107_103022_0, 0, invoice_code, 0
+IMG_20190107_103022_22, 2, invoice_price, 22
